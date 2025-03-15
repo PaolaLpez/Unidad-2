@@ -13,5 +13,10 @@ https://drive.google.com/drive/folders/1kTDE_WIKWatJ7kgxbDV5Q9hR_3-WEI5S?usp=sha
 
 ### Videos Demostrativos de la placa
 https://drive.google.com/drive/folders/1af-zLcuovm_L5cJupEsKJq4iIANZDrrQ?usp=sharing
+
+#### Diagramas en wokwi de las placas
+##### Valeria Guadalupe
+https://wokwi.com/projects/425524237180013569
+##### Paola Jaqueline
 https://wokwi.com/projects/425437483866194945
-https://wokwi.com/projects/425437337491262465
+
